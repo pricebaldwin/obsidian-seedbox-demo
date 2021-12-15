@@ -24,8 +24,8 @@ Changing "New link format" is recommended, but not necessary. Doing this makes i
 
 ## 4. Use it
 The best way to learn to use the Seedbox is by reading the articles I have previously written about it:
-- 1
-- 2
+- [What A Seedbox Is and Why It Has Been Useful To Me](https://forum.obsidian.md/t/what-a-seedbox-is-and-why-it-has-been-valuable-to-me/4344)
+- [2021 Seedbox Update](https://forum.obsidian.md/t/2021-seedbox-update/28554)
 
 ### Record
 Go ahead and let most of your new notes just go directly into the Seedbox. Don't worry about organizing them. You can do that later. 
