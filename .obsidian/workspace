@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "aeca0c282784bc01",
+    "type": "split",
+    "children": [
+      {
+        "id": "655beffea61b7dcf",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2417f4ac1f7e1616",
+    "type": "split",
+    "children": [
+      {
+        "id": "83e53c8afab3506e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eee79b29fbc82f14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a4a867e80f22677",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7efedcc00b5545e",
+    "type": "split",
+    "children": [
+      {
+        "id": "06d34c919ac6e5cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea2f36f6154b6a61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "655beffea61b7dcf",
+  "lastOpenFiles": [
+    "_seedbox/Pasted image 20211215113657.png",
+    "_seedbox/Pasted image 20211215113621.png",
+    "_seedbox/Pasted image 20211215112940.png",
+    "_seedbox/Seedbox Creation.md"
+  ]
+}

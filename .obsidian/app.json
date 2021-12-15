@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "_seedbox",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_seedbox",
+  "newLinkFormat": "absolute",
+  "promptDelete": false
+}
