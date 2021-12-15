@@ -4,5 +4,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "_seedbox",
   "newLinkFormat": "absolute",
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": true
 }

@@ -7,10 +7,10 @@ The folder can have any name. I use `_seedbox` because:
 - It does not collide with many other notes, which helps with moving files into it using Obsidian's "Move file to another folder" feature.
 - The underscore sorts it to the top of the vault hierarchy, by default.
 
-![[Pasted image 20211215113901.png]]
+![Pasted image 20211215113901](_seedbox/Pasted%20image%2020211215113901.png)
 
 ## 2. Create more folders
-![[_seedbox/Pasted image 20211215114633.png]]
+![Pasted image 20211215114633](_seedbox/Pasted%20image%2020211215114633.png)
 
 - "relegation" will be used to hold seedlings which _are not immediately actionable_. That means you don't want to delete it, but you don't want to prioritize doing anything with it either.
 - "growing" will hold seedlings which are actively accruing knowledge.
@@ -18,7 +18,7 @@ The folder can have any name. I use `_seedbox` because:
 The purpose of moving seedlings into these folders is to remove them from the review process, which will be outlined in a following step.
 
 ## 3. Change your settings to put new files into the Seedbox
-![[_seedbox/Pasted image 20211215114015.png]]
+![Pasted image 20211215114015](_seedbox/Pasted%20image%2020211215114015.png)
 
 Changing "New link format" is recommended, but not necessary. Doing this makes it so you always see "__seedbox/" at the start of your links, which provides benefit by bringing your attention to the fact that you are linking, or have linked, to an idea that is not "grown".
 
