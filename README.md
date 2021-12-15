@@ -1,5 +1,5 @@
 Starting with a blank vault:
-![[Pasted image 20211215112940.png]]
+![Pasted image 20211215112940.png](_seedbox/Pasted%20image%2020211215112940.png)
 
 ## 1. Create a folder
 The folder can have any name. I use `_seedbox` because:
