@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_seedbox/README.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_seedbox/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
   },
   "active": "655beffea61b7dcf",
   "lastOpenFiles": [
-    "_seedbox/README.md",
+    "README.md",
     "_seedbox/Seedbox Creation.md",
     "_seedbox/Pasted image 20211215113657.png",
     "_seedbox/Pasted image 20211215113621.png",
